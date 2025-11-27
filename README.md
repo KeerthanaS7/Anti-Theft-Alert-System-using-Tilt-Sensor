@@ -1,4 +1,4 @@
-# Anti-Theft-Alert-System-using-Tilt-Sensor
+#  Anti-Theft-Alert-System-using-Tilt-Sensor
 ## Aim: To measure the tilt Sensor using SW200D with Arduino UNO Board/ESP-32 using Tinker CAD.
 ## Hardware / Software Tools required:
 	PC/ Laptop with Internet connection
